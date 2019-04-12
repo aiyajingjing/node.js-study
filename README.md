@@ -1,8 +1,8 @@
 ## 目录
 - 1.node源码
 - 2.ES6
-- 3.async/await
-- 4.co
+- 3.generator、co
+- 4.async/await
 - 5.[Promise](https://github.com/aiyajingjing/nodejs-study/blob/master/promise.md)
 - 6.Express
 - 7.Koa
