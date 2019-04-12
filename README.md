@@ -9,3 +9,4 @@
 - 8.[Restful API](https://github.com/aisuhua/restful-api-design-references)
 - 9.pm2
 - 10.Docker
+- 11.[node异常处理](https://www.infoq.cn/article/quit-scheme-of-node-uncaughtexception-emergence)
