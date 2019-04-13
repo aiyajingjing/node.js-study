@@ -5,7 +5,7 @@
 - 4.async/await
 - 5.[Promise](https://github.com/aiyajingjing/nodejs-study/blob/master/Promise/promise.md)
 - 6.Express
-- 7.[Koa]((https://github.com/aiyajingjing/nodejs-study/blob/master/Koa/Koa.md))
+- 7.[Koa](https://github.com/aiyajingjing/nodejs-study/blob/master/Koa/Koa.md)
 - 8.[Restful API](https://github.com/aisuhua/restful-api-design-references)
 - 9.pm2
 - 10.Docker
