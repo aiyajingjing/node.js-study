@@ -2,7 +2,7 @@
 - 1.node源码
 - 2.ES6
 - 3.generator、co
-- 4.async/await
+- 4.[async/await](https://github.com/aiyajingjing/nodejs-study/blob/master/async/async.md)
 - 5.[Promise](https://github.com/aiyajingjing/nodejs-study/blob/master/Promise/promise.md)
 - 6.Express
 - 7.[Koa](https://github.com/aiyajingjing/nodejs-study/blob/master/Koa/Koa.md)
