@@ -11,3 +11,4 @@
 - 10.Docker
 - 11.[node异常处理](https://github.com/aiyajingjing/nodejs-study/blob/master/Error/error.md)
 - 12.event loop
+- 13.GraphQL
