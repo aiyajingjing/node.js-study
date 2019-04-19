@@ -10,5 +10,5 @@
 - 9.pm2
 - 10.Docker
 - 11.[node异常处理](https://github.com/aiyajingjing/nodejs-study/blob/master/Error/error.md)
-- 12.event loop
+- 12.[event loop]((https://github.com/aiyajingjing/nodejs-study/blob/master/Eventloop/eventloop.md)
 - 13.GraphQL
