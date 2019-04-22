@@ -12,4 +12,4 @@
 - 11.[node异常处理](https://github.com/aiyajingjing/nodejs-study/blob/master/Error/error.md)
 - 12.[event loop](https://github.com/aiyajingjing/nodejs-study/blob/master/Eventloop/eventloop.md)
 - 13.GraphQL
-- 14.调试及性能优化
+- 14.[调试及性能优化](https://github.com/nswbmw/node-in-debugging)
