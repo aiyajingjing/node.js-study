@@ -7,8 +7,9 @@
 - 6.Express
 - 7.[Koa](https://github.com/aiyajingjing/nodejs-study/blob/master/Koa/Koa.md)
 - 8.[Restful API](https://github.com/aisuhua/restful-api-design-references)
-- 9.pm2
+- 9.[pm2](https://github.com/aiyajingjing/nodejs-study/blob/master/pm2/pm2.md)
 - 10.Docker
 - 11.[node异常处理](https://github.com/aiyajingjing/nodejs-study/blob/master/Error/error.md)
 - 12.[event loop](https://github.com/aiyajingjing/nodejs-study/blob/master/Eventloop/eventloop.md)
 - 13.GraphQL
+- 14.调试及性能优化
