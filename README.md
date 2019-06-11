@@ -1,8 +1,8 @@
 核心概念 https://nodejs.org/zh-cn/docs/guides/
 ## 目录
 - 1.node源码
-- 2.ES6
-- 3.generator、co
+- 2.[ES6](https://github.com/ruanyf/es6tutorial/tree/gh-pages/docs)
+- 3.[generator、co](https://github.com/ruanyf/es6tutorial/blob/gh-pages/docs/generator.md)
 - 4.[async/await](https://github.com/aiyajingjing/nodejs-study/blob/master/async/async.md)
 - 5.[Promise](https://github.com/aiyajingjing/nodejs-study/blob/master/Promise/promise.md)
 - 6.Express
