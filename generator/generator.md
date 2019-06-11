@@ -3,10 +3,8 @@ function* generator() {
   yield 1;  
   yield 2;  
 }  
-
 var g = generator();  
 g.next();  
-
 (1) 每次调用next方法，内部指针就从函数头部或上一次停下来的地方开始执行，直到遇到下一个yield表达式（或return语句）为止  
     next会返回一个对象{ value: 1, done: false }  
 (2) return或者yiled个数+1次next时，done才是true  
