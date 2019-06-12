@@ -1,6 +1,6 @@
 核心概念 https://nodejs.org/zh-cn/docs/guides/
 ## 目录
-- 1.[node源码]((https://github.com/aiyajingjing/nodejs-study/blob/master/node/node.md))
+- 1.[node源码](https://github.com/aiyajingjing/nodejs-study/blob/master/node/node.md)
 - 2.[ES6](https://github.com/ruanyf/es6tutorial/tree/gh-pages/docs)
 - 3.[generator、co](https://github.com/ruanyf/es6tutorial/blob/gh-pages/docs/generator.md)
 - 4.[async/await](https://github.com/aiyajingjing/nodejs-study/blob/master/async/async.md)
