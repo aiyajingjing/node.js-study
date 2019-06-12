@@ -5,7 +5,7 @@
 - 3.[generator、co](https://github.com/ruanyf/es6tutorial/blob/gh-pages/docs/generator.md)
 - 4.[async/await](https://github.com/aiyajingjing/nodejs-study/blob/master/async/async.md)
 - 5.[Promise](https://github.com/aiyajingjing/nodejs-study/blob/master/Promise/promise.md)
-- 6.Express
+- 6.[Express](https://github.com/aiyajingjing/nodejs-study/blob/master/Express/express.md)
 - 7.[Koa](https://github.com/aiyajingjing/nodejs-study/blob/master/Koa/Koa.md)
 - 8.[Restful API](https://github.com/aisuhua/restful-api-design-references)
 - 9.[pm2](https://github.com/aiyajingjing/nodejs-study/blob/master/pm2/pm2.md)
