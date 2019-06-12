@@ -106,4 +106,5 @@ function run(fn) {
   next();
 }
 ```  
-https://github.com/tj/co/blob/master/index.js
+https://github.com/tj/co/blob/master/index.js  
+https://zhuanlan.zhihu.com/p/60742489
