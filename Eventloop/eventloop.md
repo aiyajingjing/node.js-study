@@ -6,4 +6,5 @@ https://juejin.im/post/5cca9e52e51d453b557dc333
 https://blog.csdn.net/i10630226/article/details/81369841  
 http://www.ruanyifeng.com/blog/2018/02/node-event-loop.html  
 https://nodejs.org/zh-cn/docs/guides/  
-https://github.com/nodejs/help/issues/1118
+https://github.com/nodejs/help/issues/1118  
+https://zhuanlan.zhihu.com/p/73977039
