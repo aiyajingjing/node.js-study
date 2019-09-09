@@ -15,3 +15,5 @@
 - 13.[GraphQL](http://graphql.cn/)
 - 14.[调试及性能优化](https://github.com/nswbmw/node-in-debugging)
 - 15.[websocket](https://github.com/nswbmw/node-in-debugging)
+- 16.[mysql](https://github.com/nswbmw/node-in-debugging)
+- 17.[redis](https://github.com/nswbmw/node-in-debugging)
