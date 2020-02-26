@@ -17,3 +17,4 @@
 - 15.[websocket](https://github.com/nswbmw/node-in-debugging)
 - 16.[mysql](https://github.com/nswbmw/node-in-debugging)
 - 17.[redis](https://github.com/nswbmw/node-in-debugging)
+- 18.[stream流的解析](https://github.com/zoubin/engineering)
