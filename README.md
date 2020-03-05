@@ -16,5 +16,5 @@
 - 14.[调试及性能优化](https://github.com/nswbmw/node-in-debugging)
 - 15.[websocket](https://github.com/nswbmw/node-in-debugging)
 - 16.[mysql](https://github.com/nswbmw/node-in-debugging)
-- 17.[redis](https://github.com/nswbmw/node-in-debugging)
+- 17.[redis](https://github.com/aiyajingjing/nodejs-study/blob/master/Redis/redis.md)
 - 18.[stream流的解析](https://github.com/zoubin/engineering)
